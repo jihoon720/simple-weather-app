@@ -1,0 +1,23 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "description": "real time weather app with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jihoon720/simple-weather-app.git"
+  },
+  "author": "jihoon lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jihoon720/simple-weather-app/issues"
+  },
+  "homepage": "https://github.com/jihoon720/simple-weather-app#readme",
+  "dependencies": {
+    "request": "^2.87.0",
+    "yargs": "^11.0.0"
+  }
+}
